@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\C#\\BT_LINQ\\Bai19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1ED83E4-C5A0-464A-A386-38CA5B663E7D}|Bai19\\Bai19.csproj|d:\\c#\\bt_linq\\bai19\\bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1ED83E4-C5A0-464A-A386-38CA5B663E7D}|Bai19\\Bai19.csproj|solutionrelative:bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF5854C6-81FE-2CA9-9F8F-1761EEA63D8B}|Bai19\\Bai19.csproj|d:\\c#\\bt_linq\\bai19\\bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5854C6-81FE-2CA9-9F8F-1761EEA63D8B}|Bai19\\Bai19.csproj|solutionrelative:bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\BT_LINQ\\Bai19\\Bai19\\Program.cs",
               "RelativeDocumentMoniker": "Bai19\\Program.cs",
-              "ToolTip": "D:\\C#\\BT_LINQ\\Bai19\\Bai19\\Program.cs*",
-              "RelativeToolTip": "Bai19\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\C#\\BT_LINQ\\Bai19\\Bai19\\Program.cs",
+              "RelativeToolTip": "Bai19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T11:16:33.24Z",
               "EditorCaption": ""
