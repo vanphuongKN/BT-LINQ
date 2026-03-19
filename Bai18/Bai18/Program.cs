@@ -12,7 +12,6 @@
         {
             Console.WriteLine("MSV: 2415053122230");
             Console.WriteLine("Vo Van Phuong - 225LTC02#");
-
             List<Student> students = new List<Student>() {
                 new Student{Id=1, Name="An", Score=8},
                 new Student{Id=2, Name="Binh", Score=6},
