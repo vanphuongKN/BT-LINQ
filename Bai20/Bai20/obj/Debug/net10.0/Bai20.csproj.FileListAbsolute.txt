@@ -1,0 +1,15 @@
+D:\C#\BT_LINQ\Bai20\Bai20\bin\Debug\net10.0\Bai20.exe
+D:\C#\BT_LINQ\Bai20\Bai20\bin\Debug\net10.0\Bai20.deps.json
+D:\C#\BT_LINQ\Bai20\Bai20\bin\Debug\net10.0\Bai20.runtimeconfig.json
+D:\C#\BT_LINQ\Bai20\Bai20\bin\Debug\net10.0\Bai20.dll
+D:\C#\BT_LINQ\Bai20\Bai20\bin\Debug\net10.0\Bai20.pdb
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.AssemblyInfoInputs.cache
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.AssemblyInfo.cs
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.csproj.CoreCompileInputs.cache
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.sourcelink.json
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.dll
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\refint\Bai20.dll
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.pdb
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\Bai20.genruntimeconfig.cache
+D:\C#\BT_LINQ\Bai20\Bai20\obj\Debug\net10.0\ref\Bai20.dll
