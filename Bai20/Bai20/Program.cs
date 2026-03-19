@@ -23,8 +23,9 @@
             };
             var top3SinhVien = students.OrderByDescending(s => s.Score).Take(3).ToList();
             Console.WriteLine("Top 3 sinh vien diem cao nhat:");
-            foreach (var sv in top3SinhVien)
+            for (int i = 0; i < top3SinhVien.Count; i++)
             {
+                var sv = top3SinhVien[i];
                 Console.WriteLine($"- {sv.Name}: {sv.Score} diem");
             }
         }
