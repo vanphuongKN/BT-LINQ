@@ -8,7 +8,7 @@
             Console.WriteLine("Vo Van Phuong - 225LTC02#");
 
             List<int> dayso = new List<int> { 1, 2, 2, 3, 4, 4, 5 };
-            var danhSachDuyNhat = dayso.Distinct().ToList();
+            var danhSachDuyNhat = dayso.Distinct();
             Console.WriteLine("Danh sach ban dau: " + string.Join(" ", dayso));
             Console.WriteLine("Danh sach duy nhat: " + string.Join(" ", danhSachDuyNhat));
 
